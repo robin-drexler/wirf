@@ -11,6 +11,10 @@
     "test": "jest",
     "build": "microbundle"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robin-drexler/wirf"
+  },
   "devDependencies": {
     "babel-jest": "^22.0.0",
     "babel-preset-env": "^1.6.1",
