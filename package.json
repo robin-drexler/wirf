@@ -1,0 +1,21 @@
+{
+  "name": "wirf",
+  "description":
+    "Create an object that throws whenever it is accessed in any way.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "source": "src/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.m.js",
+  "scripts": {
+    "test": "jest",
+    "build": "microbundle"
+  },
+  "devDependencies": {
+    "babel-jest": "^22.0.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^22.4.2",
+    "microbundle": "^0.4.4"
+  }
+}
