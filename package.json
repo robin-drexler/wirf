@@ -1,8 +1,7 @@
 {
   "name": "wirf",
-  "description":
-    "Create an object that throws whenever it is accessed in any way.",
-  "version": "1.0.0",
+  "description": "Create an object that throws whenever it is accessed in any way.",
+  "version": "1.0.1",
   "license": "MIT",
   "source": "src/index.js",
   "main": "dist/index.js",
